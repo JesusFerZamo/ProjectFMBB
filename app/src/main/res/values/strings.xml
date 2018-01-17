@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Project FMBB</string>
+    <string-array name="titulo">
+        <item>Programación</item>
+        <item>Harry Potter</item>
+        <item>Ciencia</item>
+        <item>Pokemon</item>
+    </string-array>
 </resources>
